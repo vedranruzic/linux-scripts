@@ -1,6 +1,6 @@
 #!/bin/bash
 # Dnevni backup mapa firme Gradnja
-
+# Autor: Vedran Ruzic
 DATUM=$(date +%F)
 IZVOR=/srv/gradnja
 CILJ=/var/backups/gradnja
