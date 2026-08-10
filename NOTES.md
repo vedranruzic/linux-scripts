@@ -1,4 +1,10 @@
 # Bilješke
+- Naučio: subnetting — korak = 256 − maska, koraci idu 128 64 32 16 8 4
+- Postupak: adresa ÷ korak, zaokruži nadolje, × korak = mreža
+- Postupak: broadcast = mreža + korak − 1; prvi broj komada je mreža, zadnji je broadcast
+- Riješio sam: 192.168.10.192/26 i 192.168.4.90/28 bez pomoći
+
+
 ## 2026-08-10 — Putanje i DHCP
 
 - Naučio: `../ime` = kat gore pa u susjednu mapu
